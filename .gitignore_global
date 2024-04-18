@@ -1,2 +1,3 @@
 #ignorar todos los archivos, eceptos este el .gitignore_global
+#podemos agregarle cosas. y lo local tiene más prioridad que lo global. con otro archivo .gitignore
 *.txt
