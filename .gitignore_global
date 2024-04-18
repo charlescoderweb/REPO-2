@@ -1,0 +1,2 @@
+#ignorar todos los archivos, eceptos este el .gitignore_global
+*.txt
